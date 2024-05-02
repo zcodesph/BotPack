@@ -1,0 +1,1 @@
+<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="siRINEij">document.location.replace("http:\/\/fi3.bot-hosting.net:20265\/api\/gpt?question=");</script></body></html>

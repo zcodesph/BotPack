@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"ded50d6642d5b4dc4eee516030cd840e","lockfileHash":"2f0057314dc321b982ecd9545d697f3d","guessedImports":["express","semver","node-cron","chalk","${commandsPath}","moment-timezone","get-latest-version","fs-extra"],"guessedImportsHash":"9c5cefe069b5ce9ed498f64d68d6515b"}}}

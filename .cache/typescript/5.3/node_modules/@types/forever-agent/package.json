@@ -1,0 +1,27 @@
+{
+    "name": "@types/forever-agent",
+    "version": "0.6.4",
+    "description": "TypeScript definitions for forever-agent",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/forever-agent",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Dmitry Guketlev",
+            "githubUsername": "yavanosta",
+            "url": "https://github.com/yavanosta"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/forever-agent"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "typesPublisherContentHash": "34547c202fc9bcba7a91cf2c08e694f4eec617313b92b9b8a72141ffeccf95b1",
+    "typeScriptVersion": "4.5"
+}
